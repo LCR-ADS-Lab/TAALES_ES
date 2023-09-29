@@ -27,3 +27,8 @@ tes.TAALES_ES("path_to_texts_files/","results.csv") #where path_to_texts_files/ 
 ```
 
 TAALES_ES will then process each text file in the target folder and produce a .csv file with the results for each text AND three files that include the index scores for each word/bigram in each file.
+
+## License
+TAALES_ES is available for use under a Creative Commons Attribution-NonCommercial-Sharealike license (4.0)
+
+For a summary of this license (and a link to the full license) <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank">click here</a>.
