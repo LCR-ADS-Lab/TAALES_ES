@@ -3,6 +3,11 @@ Code for the Spanish version of TAALES (TAALES Español)
 
 This page includes the code for the Spanish Version of TAALES (TAALES Español) used in Diez-Ortega & Kyle (2023).
 
+## Citation
+If you use TAALES_ES in your work, please cite the following paper:
+
+Díez-Ortega, M., & Kyle, K. (2023). Measuring the development of lexical richness of L2 Spanish: A longitudinal learner corpus study. *Studies in Second Language Acquisition*, 1-31. [https://doi.org/10.1017/S0272263123000384](https://doi.org/10.1017/S0272263123000384)
+
 ## Getting Started
 In order to use this code, you will first need to have a working Python 3 environment. If this is your first time using Python, we suggest using the [Anaconda distribution of Python](https://www.anaconda.com/).
 
